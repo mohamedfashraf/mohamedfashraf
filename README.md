@@ -2,12 +2,12 @@
 <h3 align="center">A Passionate Software Developer</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mohamedfashraf&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mohamedfashraf&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=mohamedfashraf&theme=darkhub">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohamedfashraf&theme=darkhub" alt="GitHub Profile Trophies" />
+  <a href="https://github-profile-trophy.vercel.app/?username=mohamedfashraf&theme=onedark">
+    <img src="https://github-profile-trophy.vercel.app/?username=mohamedfashraf&theme=onedark" alt="GitHub Profile Trophies" />
   </a>
 </p>
 
@@ -19,17 +19,13 @@
 
 <h2 align="center">📊 Mohamed Ashraf Metwally's Stats 📊</h2>
 
-<table align="center" border="1" cellspacing="0" cellpadding="10">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mohamedfashraf&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="GitHub Stats" />
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedfashraf&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedfashraf&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="border: 2px solid #4C4C4C; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); background-color: #f5f5f5; width: 90%; max-width: 800px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedfashraf&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedfashraf&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedfashraf&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
