@@ -17,10 +17,19 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Add links to your social media or contact methods here -->
-</p>
+<h2 align="center">📊 Mohamed Ashraf Metwally's Stats 📊</h2>
+
+<table align="center" border="1" cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=mohamedfashraf&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="GitHub Stats" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedfashraf&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedfashraf&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -104,13 +113,4 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
-</p>
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedfashraf&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedfashraf&layout=compact&theme=github_dark" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedfashraf&theme=github-dark-blue" alt="GitHub Streak" />
 </p>
